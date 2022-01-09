@@ -5,6 +5,7 @@
 
 ## Coding
 **Note**: In this instruction I used postgreSQL database
+
 To work with database we create a class that help us connect and use JDBC API to manipulate database. We will name class as ``DBHelpe.java`.
 ```
     public class DBhelper {
