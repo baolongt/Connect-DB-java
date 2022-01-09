@@ -105,6 +105,7 @@ The result you will get is
 >1 - Nike
 
 That is exactly tuple inside the `ResultSet rs` object return from `executeQuery` method
+
 We can get it with method `next()`
 ```
     // handle result
