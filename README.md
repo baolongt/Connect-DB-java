@@ -25,7 +25,6 @@ To work with database we create a class that help us connect and use JDBC API to
         }
         return c;
     }
-}
 ```
 > Class `Connection` - A connection (session) with a specific database
 
